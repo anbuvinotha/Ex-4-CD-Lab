@@ -13,8 +13,8 @@ To write a YACC program to recognize a valid variable which starts with a letter
 8.	Enter a statement as input and the valid variables are identified as output.
 # PROGRAM
 ```
-Developed By:NARMADHA S
-Reg No:212223220065
+Developed By:ANBU VINOTHA.S
+Reg No:212223230015
 ```
 ```
 %{
