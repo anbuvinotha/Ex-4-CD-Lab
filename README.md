@@ -1,5 +1,6 @@
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC
-Date : 06-05-25
+# Date : 06-05-25
+
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
